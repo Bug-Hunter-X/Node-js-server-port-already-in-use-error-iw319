@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js where the server fails to start because the port is already in use.  The `bug.js` file shows the problematic code, while `bugSolution.js` provides a robust solution that handles the error gracefully.  This is a crucial aspect of building reliable server-side applications.
